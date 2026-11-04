@@ -1,6 +1,6 @@
 ### Samvel Kocharyan
 
-**Open-source зrojects:** [samvelkoch.github.io](https://samvelkoch.github.io)
+**Open-source projects:** [samvelkoch.github.io](https://samvelkoch.github.io)
 
 - [НА_ПРОСВЕТ](https://samvelkoch.github.io/naprosvet/) · literary research on Brodsky, Chekhov, Romain Gary. AI personas QA.
 - [Skill Graph](https://samvelkoch.github.io/skill-graph/) · edTech experiment, knowledge ontology and hundreds of labs
