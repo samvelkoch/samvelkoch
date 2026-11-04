@@ -1,4 +1,6 @@
-### Samvel K.
+### Samvel Kocharyan
+
+DS / AI / Curiosity
 
 **Projects:** [samvelkoch.github.io](https://samvelkoch.github.io)
 
