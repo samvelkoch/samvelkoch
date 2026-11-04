@@ -1,7 +1,5 @@
 ### Samvel Kocharyan
 
-DS / AI / Curiosity
-
 **Open-source зrojects:** [samvelkoch.github.io](https://samvelkoch.github.io)
 
 - [НА_ПРОСВЕТ](https://samvelkoch.github.io/naprosvet/) · literary research on Brodsky, Chekhov, Romain Gary. AI personas QA.
